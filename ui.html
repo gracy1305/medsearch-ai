@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MedSearch AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: white;
+        }
+
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 500px;
+            margin: auto;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #0078D7;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        #results {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>MedSearch AI</h1>
+
+    <label>Enter Query</label>
+    <input type="text" placeholder="Example: Side effects of ibuprofen">
+
+    <label>Select Retriever</label>
+    <select>
+        <option>TF-IDF</option>
+        <option>BM25</option>
+        <option>Dense</option>
+        <option>Hybrid</option>
+    </select>
+
+    <button>Search</button>
+
+    <div id="results">
+        <h3>Results</h3>
+        <p>Retrieved drug information will appear here.</p>
+    </div>
+</div>
+
+</body>
+</html>
