@@ -46,7 +46,7 @@ ProjectMed/
 
 # Dataset
 
-**Source:**: FDA Structured Product Labeling (SPL) — February 2026 monthly update prescription drug XML files only.
+**Source:** FDA Structured Product Labeling (SPL) — February 2026 monthly update prescription drug XML files only.
 
 ## How to get the Dataset?
 
