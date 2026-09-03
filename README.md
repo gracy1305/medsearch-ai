@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22284980.svg)](https://doi.org/10.5281/zenodo.22284980)
 
-Intelligent Information Retrieval | Spring 2025-26
+# Intelligent Information Retrieval | Spring 2025-26
 Authors: Kritika Bhat, Gracy Patel, Teresa Chirayil
 
 # Project Overview
