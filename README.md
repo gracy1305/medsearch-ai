@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22284980.svg)](https://doi.org/10.5281/zenodo.22284980)
 
-## CSC 575 – Intelligent Information Retrieval | Spring 2025-26
-Team members: Kritika Bhat, Gracy Patel, Teresa Chirayil
+Intelligent Information Retrieval | Spring 2025-26
+Authors: Kritika Bhat, Gracy Patel, Teresa Chirayil
 
 # Project Overview
 MedSearch AI is an end-to-end information retrieval and retrieval-augmented generation (RAG) system for FDA drug label search. Users can ask plain-language questions about drug side effects, interactions, and dosage, and get answers grounded in verified FDA label text.
