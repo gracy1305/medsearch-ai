@@ -1,10 +1,28 @@
 # MedSearch AI — FDA Drug Label Retrieval & RAG System
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22284980.svg)](https://doi.org/10.5281/zenodo.22284980)
+
 ## CSC 575 – Intelligent Information Retrieval | Spring 2025-26
 Team members: Kritika Bhat, Gracy Patel, Teresa Chirayil
 
-# Project overview
+# Project Overview
 MedSearch AI is an end-to-end information retrieval and retrieval-augmented generation (RAG) system for FDA drug label search. Users can ask plain-language questions about drug side effects, interactions, and dosage, and get answers grounded in verified FDA label text.
 
+# Publication
+
+The accompanying research paper is available as a preprint on Zenodo:
+
+**Retrieval-Augmented Generation for FDA Drug Label Search**  
+Gracy Patel, Kritika Bhat, and Teresa Chirayil  
+DePaul University, 2026
+
+**Paper:** https://doi.org/10.5281/zenodo.22284980
+
+### Citation
+
+Patel, G., Bhat, K., & Chirayil, T. (2026). *Retrieval-Augmented Generation for FDA Drug Label Search* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22284980
+
+# Project Structure
 
 ProjectMed/
 
@@ -28,7 +46,7 @@ ProjectMed/
 
 # Dataset
 
-source: FDA Structured Product Labeling (SPL) — February 2026 monthly update prescription drug XML files only.
+**Source:**: FDA Structured Product Labeling (SPL) — February 2026 monthly update prescription drug XML files only.
 
 ## How to get the Dataset?
 
@@ -95,7 +113,7 @@ Computes SBERT faithfulness scores automatically, then prompts you to manually s
 
 Output: rag_scores.txt
 
-Step 6 — (Optional) Launch the web interface
+Step 5 — (Optional) Launch the web interface
 
 ![alt text](image-2.png)
 
